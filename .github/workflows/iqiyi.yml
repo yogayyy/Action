@@ -1,4 +1,4 @@
-name: 爱奇艺会员签到
+name: 爱奇艺
 
 on:
     workflow_dispatch:
